@@ -43,7 +43,7 @@ Click the "Open in Colab" badge at the top of this file.
 **Method 2: Local Setup**
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ashika-06/Quora-Duplicate-Question-Detection.git](https://github.com/ashika-06/Quora-Duplicate-Question-Detection.git)
+    git clone https://github.com/ashika-06/Quora-Duplicate-Question-Detection.git
     cd Quora-Duplicate-Question-Detection
     ```
 
