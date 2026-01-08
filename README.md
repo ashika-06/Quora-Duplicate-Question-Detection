@@ -1,7 +1,7 @@
 # Quora-Duplicate-Question-Detection
 A Binary Classification system using NLP and XGBoost to identify duplicate questions on Quora. Features TF-IDF weighted Word2Vec (GloVe), FuzzyWuzzy matching, and advanced feature engineering to achieve a Log Loss of 0.36.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashika-06/Quora-Duplicate-Question-Detection/blob/main/Quora_Question_Pairs.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashika-06/Quora-Duplicate-Question-Detection/blob/main/EDA.ipynb)
 
 ### Project Overview
 The goal is to identify if two questions have the same intent, even if they use different words or sentence structures.
