@@ -63,7 +63,7 @@ Click the "Open in Colab" badge at the top of this file.
    
 4.  **Run the Notebook:**
     ```bash
-    jupyter notebook Quora_Question_Pairs.ipynb
+    jupyter notebook EDA.ipynb
     ```
 
 ```
